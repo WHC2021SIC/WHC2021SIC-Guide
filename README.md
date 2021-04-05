@@ -58,13 +58,13 @@ This section will help you setup hardware components of your WHC 2021 SIC kit.
 
 #### Raspberry Pi 4
 
-TODO
+![rpi4](image/rpi4.jpg)
 
 Make sure to hold the bare RPI board from its edges to avoid touching components.
 
 #### Audio Injector Octo soundcard hat
 
-TODO
+![octo](image/octo.jpg)
 
 Stack Audio Injector Octo soundcard hat on GPIO header of RPI.
 
@@ -72,7 +72,7 @@ Connect at least the Output RCA breakout.
 
 #### Syntacts board and actuators
 
-TODO
+![syntacs](image/syntacs.jpg)
 
 Define ideal wiring length based on your project setup, particularly depending on constraints from  the locations of actuators and of the rest of your system (both colocated? wearable?).
 
@@ -84,7 +84,7 @@ Connect:
 
 #### SparkFun Qwiic hat, boards and sensors
 
-TODO
+![qwiic](image/qwiic_sample.jpg)
 
 Remove the black header protection from the top of the Audio Injector Octo soundcard hat.
 
