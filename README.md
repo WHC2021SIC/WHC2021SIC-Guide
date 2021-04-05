@@ -132,7 +132,7 @@ This procedure is based on third-party tutorials such as: https://www.raspberryp
       - `Interfacing Options > VNC / SSH`
 - determine the Raspberry Pi IP address:
    - access your Wifi router admin panel and identify connected devices
-   - use network scanning tools, such as `nmap` for Linux debian/ubuntu systems: http://mitchtech.net/vnc-setup-on-raspberry-pi-from-ubuntu/
+   - use network scanning tools, such as `nmap` for Linux debian/ubuntu systems (from: http://mitchtech.net/vnc-setup-on-raspberry-pi-from-ubuntu/)
       - `sudo apt install nmap`
       - `nmap -sV -p 22 192.168.2.1-255` (replace `192.168.2.1-255` with your network subnetwork and range)
 - download VNC Viewer from https://www.realvnc.com/en/connect/download/viewer/
@@ -173,8 +173,8 @@ Explore the vibrotactile design space with the Syntacts Tactor Synthesizer by Ev
 
 ##### Other tools for haptic and audio interaction design
 
-- Macaron by Oliver Schneider et al.: http://hapticdesign.github.io/macaron
-- VibViz by Hasti Seifi et al.: http://www.cs.ubc.ca/~seifi/VibViz/main.html
+- Macaron by Oliver Schneider et al.: https://hapticdesign.github.io/macaron
+- VibViz by Hasti Seifi et al.: https://www.cs.ubc.ca/~seifi/VibViz/main.html
 
 
 #### SparkFun Qwiic hat, boards and sensors
