@@ -67,6 +67,7 @@ Make sure to hold the bare RPI board from its edges to avoid touching components
 ![octo](images/octo.jpeg)
 
 Stack Audio Injector Octo soundcard hat on GPIO header of RPI.
+![octo](images/rpi4_octo_qwiic_1.jpeg)
 
 Connect at least the Output RCA breakout.
 
@@ -82,9 +83,11 @@ Connect:
 - actuators to Syntacts board
 - audio cables from Syntacts board to Audio Injector Octo soundcard hat
 
+![octo](images/rpi4_octo_qwiic_4.jpeg)
+
 #### SparkFun Qwiic hat, boards and sensors
 
-![qwiic](images/qwiic_sample.jpeg)
+![qwiic](images/qwiic_example.jpeg)
 
 Remove the black header protection from the top of the Audio Injector Octo soundcard hat.
 
