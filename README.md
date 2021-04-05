@@ -159,7 +159,7 @@ Automated setup is outdated and valid only for older kernels.
 
 Pure Data has been employed in the HCI and haptics communities, here are a few examples:
 - StereoHaptics by Ali Israr et al.: https://la.disneyresearch.com/publication/stereohaptics/
-- libhapiness by Christian Frisson et al.: https://gitlab.inria.fr/Loki/happiness/libhappiness
+- libhapiness by Julien Decaudin et al.: https://gitlab.inria.fr/Loki/happiness/libhappiness
 - WebAudioHaptics by Christian Frisson et al.: https://github.com/webaudiohaptics
 
 Install puredata from a terminal with: `sudo apt install puredata`.
