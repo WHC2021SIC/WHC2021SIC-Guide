@@ -69,7 +69,7 @@ Make sure to hold the bare RPI board from its edges to avoid touching components
 Stack Audio Injector Octo soundcard hat on GPIO header of RPI.
 ![octo](images/rpi4_octo_qwiic_1.svg)
 
-Connect at least the Output RCA breakout.
+Connect at least the Output RCA breakout to the Audio Injector Octo soundcard hat.
 
 #### Syntacts board and actuators
 
