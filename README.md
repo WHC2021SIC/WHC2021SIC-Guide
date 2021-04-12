@@ -46,6 +46,7 @@ Once this guide becomes very comprehensive, the main file can be split in multip
       - [Explore the vibrotactile design space with the Syntacts Tactor Synthesizer](#explore-the-vibrotactile-design-space-with-the-syntacts-tactor-synthesizer)
       - [Other tools for haptic and audio interaction design](#other-tools-for-haptic-and-audio-interaction-design)
     + [SparkFun Qwiic hat, boards and sensors](#sparkfun-qwiic-hat-boards-and-sensors-1)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 <!-- tocstop -->
