@@ -1,5 +1,7 @@
 # WHC2021SIC-Guide
 
+![rpi4](images/teaser.jpeg)
+
 Guide for the IEEE World Haptics Conference 2021 Student Innovation Challenge
 
 https://2021.worldhaptics.org/sic/
@@ -67,7 +69,7 @@ Make sure to hold the bare RPI board from its edges to avoid touching components
 ![octo](images/octo.jpeg)
 
 Stack Audio Injector Octo soundcard hat on GPIO header of RPI.
-![octo](images/rpi4_octo_qwiic_1.svg)
+![rpi4](images/rpi4_octo.jpeg)
 
 Connect at least the Output RCA breakout to the Audio Injector Octo soundcard hat.
 
