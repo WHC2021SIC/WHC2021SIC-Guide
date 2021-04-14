@@ -64,6 +64,7 @@ This section will help you setup hardware components of your WHC 2021 SIC kit.
 ![rpi4](images/rpi4.jpeg)
 
 Make sure to hold the bare RPI board from its edges to avoid touching components.
+One you receive the RPI and the SD card, please burn Raspberry Pi OS to the Micro SD card using the card reader. Imager is available here: https://www.raspberrypi.org/software/
 
 #### Audio Injector Octo soundcard hat
 
@@ -185,7 +186,12 @@ Explore the vibrotactile design space with the Syntacts Tactor Synthesizer by Ev
 
 #### SparkFun Qwiic hat, boards and sensors
 
-TODO
+I2C function in RPI is disabled by default. Please follow this instruction to enable the configuration, and make sure to reboot.
+https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all#i2c-on-pi
+
+Sparkfun provides python programming on RPI tutorial: https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi
+
+Depending on libiraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
 
 ## Acknowledgements
 
