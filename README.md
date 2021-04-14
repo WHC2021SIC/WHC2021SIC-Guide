@@ -86,6 +86,7 @@ Solder actuators, wires and connectors.
 Connect:
 - actuators to Syntacts board
 - audio cables from Syntacts board to Audio Injector Octo soundcard hat
+- Supply power to the board by either the battery case or the USB cable (just use red and black cable, probably better to plug into a USB3.0 port)
 
 ![octo](images/rpi4_octo_qwiic_4.jpeg)
 
@@ -191,7 +192,7 @@ https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all#i2c-o
 
 Sparkfun provides python programming on RPI tutorial: https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi
 
-Depending on libiraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
+Depending on libraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
 
 ## Acknowledgements
 
