@@ -194,6 +194,8 @@ Sparkfun provides python programming on RPI tutorial: https://learn.sparkfun.com
 
 Depending on libraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version `python --version` and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
 
+Quick tip: want to know I2C address of your sensors? Here describes how to scan and find I2C devices on the bus using `i2cdetect -y 1`: https://learn.sparkfun.com/tutorials/qwiic-hat-for-raspberry-pi-hookup-guide
+
 ## Acknowledgements
 
 SIC chairs would like to thank Evan Pezent, Zane A. Zook and Marcia O'Malley from [MAHI Lab](http://mahilab.rice.edu) at Rice University for having distributed to them 2 [Syntacts](https://www.syntacts.org) kits for the [IROS 2020 Intro to Haptics for XR Tutorial](http://iros-haptics-tutorial.org/). 
