@@ -46,6 +46,7 @@ Once this guide becomes very comprehensive, the main file can be split in multip
       - [Explore the vibrotactile design space with the Syntacts Tactor Synthesizer](#explore-the-vibrotactile-design-space-with-the-syntacts-tactor-synthesizer)
       - [Other tools for haptic and audio interaction design](#other-tools-for-haptic-and-audio-interaction-design)
     + [SparkFun Qwiic hat, boards and sensors](#sparkfun-qwiic-hat-boards-and-sensors-1)
+- [FAQ](#faq)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -193,6 +194,10 @@ https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all#i2c-o
 Sparkfun provides python programming on RPI tutorial: https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi
 
 Depending on libraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version `python --version` and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
+
+## FAQ
+
+Questions? Start by checking the [FAQ](FAQ.md)!
 
 ## Acknowledgements
 
