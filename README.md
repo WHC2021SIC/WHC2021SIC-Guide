@@ -195,6 +195,8 @@ Sparkfun provides python programming on RPI tutorial: https://learn.sparkfun.com
 
 Depending on libraries you use, it might require you to upgrade pyhthon version to 3.0. Please check the current installed version `python --version` and change the version if necessary. (see Use Python 3 section in the sparkfun tutorial)
 
+Quick tip: want to know I2C address of your sensors? Here describes how to scan and find I2C devices on the bus using `i2cdetect -y 1`: https://learn.sparkfun.com/tutorials/qwiic-hat-for-raspberry-pi-hookup-guide
+
 ## FAQ
 
 Questions? Start by checking the [FAQ](FAQ.md)!
