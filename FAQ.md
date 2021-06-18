@@ -1,7 +1,24 @@
-# WHC 2021 SIC FAQ
+# WHC2021SIC-Guide | FAQ
 
 Please always consider the most up to date version of this [FAQ online](https://github.com/WHC2021SIC/WHC2021SIC-Guide/blob/main/FAQ.md).
 
+![rpi4](images/teaser.jpeg)
+
+Guide for the IEEE World Haptics Conference 2021 Student Innovation Challenge: repositories
+
+https://2021.worldhaptics.org/sic/
+
+## Authors
+
+- [Christian Frisson](https://frisson.re)
+- [Jun Nishida](http://junnishida.net)
+- [Heather Culbertson](https://sites.usc.edu/culbertson/)
+- you?
+
+Your contributions are welcome, here are your options to help us improve this guide:
+- [review and open issues](https://github.com/WHC2021SIC/WHC2021SIC-Guide/issues)
+- [create pull requests](https://github.com/WHC2021SIC/WHC2021SIC-Guide/pulls)
+- contact WHC 2021 SIC chairs at [sic@2021.worldhaptics.org](mailto:sic@2021.worldhaptics.org)
 ## Contents
 
 Generated with `npm run toc`, see [INSTALL.md](INSTALL.md).
@@ -12,16 +29,20 @@ Once this guide becomes very comprehensive, the main file can be split in multip
 
 <!-- toc -->
 
-- [Can we update our teams members composition?](#can-we-update-our-teams-members-composition)
-- [Can we run our demo on our own computers or boards instead of the Raspberry Pi?](#can-we-run-our-demo-on-our-own-computers-or-boards-instead-of-the-raspberry-pi)
-- [Can we use another operating system than Raspbian / Raspberry Pi OS on our Raspberry Pi?](#can-we-use-another-operating-system-than-raspbian--raspberry-pi-os-on-our-raspberry-pi)
-- [How do I install the Syntacts software on the Raspberry Pi?](#how-do-i-install-the-syntacts-software-on-the-raspberry-pi)
-- [Can we program our demo with Unity on the Raspberry Pi?](#can-we-program-our-demo-with-unity-on-the-raspberry-pi)
-- [I have another question, where/how do I ask?](#i-have-another-question-wherehow-do-i-ask)
+- [FAQ](#faq)
+  * [Can we update our teams members composition?](#can-we-update-our-teams-members-composition)
+  * [Can we run our demo on our own computers or boards instead of the Raspberry Pi?](#can-we-run-our-demo-on-our-own-computers-or-boards-instead-of-the-raspberry-pi)
+  * [Can we use another operating system than Raspbian / Raspberry Pi OS on our Raspberry Pi?](#can-we-use-another-operating-system-than-raspbian--raspberry-pi-os-on-our-raspberry-pi)
+  * [How do I install the Syntacts software on the Raspberry Pi?](#how-do-i-install-the-syntacts-software-on-the-raspberry-pi)
+  * [Can we program our demo with Unity on the Raspberry Pi?](#can-we-program-our-demo-with-unity-on-the-raspberry-pi)
+  * [I have another question, where/how do I ask?](#i-have-another-question-wherehow-do-i-ask)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 <!-- tocstop -->
 
-## Can we update our teams members composition?
+## FAQ
+### Can we update our teams members composition?
 
 Short answer: it depends
 
@@ -36,7 +57,7 @@ To enable us SIC chairs to make an informed decision, please send us an updated 
 
 Then we SIC chairs will get back to you with our decision.
 
-## Can we run our demo on our own computers or boards instead of the Raspberry Pi?
+### Can we run our demo on our own computers or boards instead of the Raspberry Pi?
 
 Short answer: no
 
@@ -45,7 +66,7 @@ Facts from the [WHC 2021 SIC call for participation](http://2021.worldhaptics.or
 
 Please contact us SIC chairs if you believe that you have met a blocking issue with your hardware, ideally through [guide issues](https://github.com/WHC2021SIC/WHC2021SIC-Guide/issues) so that all teams can benefit from the discussion.
 
-## Can we use another operating system than Raspbian / Raspberry Pi OS on our Raspberry Pi?
+### Can we use another operating system than Raspbian / Raspberry Pi OS on our Raspberry Pi?
 
 Short answer: no
 
@@ -53,7 +74,7 @@ We SIC chairs can not provide support for many operating systems such as other L
 
 Student teams are free to explore other operating systems with their SIC hardware **after** the challenge.
 
-## How do I install the Syntacts software on the Raspberry Pi?
+### How do I install the Syntacts software on the Raspberry Pi?
 
 This summary was raised in this issue: https://github.com/WHC2021SIC/Syntacts/issues/1
 
@@ -74,7 +95,7 @@ sudo apt install cmake libasound2-dev libgtk-3-dev
 
 If you want Jack audio connection support, you may also install `libjack-dev` (v1) or `libjack-jackd2-dev` (v2).
 
-## Can we program our demo with Unity on the Raspberry Pi?
+### Can we program our demo with Unity on the Raspberry Pi?
 
 Short answer: not currently
 
@@ -92,6 +113,15 @@ https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
 Note that Unity is also the name of a desktop environment for Ubuntu, making search for information harder.
 https://en.wikipedia.org/wiki/Unity_(user_interface)
 
-## I have another question, where/how do I ask?
+### I have another question, where/how do I ask?
 
 Ideally through [guide issues](https://github.com/WHC2021SIC/WHC2021SIC-Guide/issues) so that all teams can benefit from the discussion.
+
+## Acknowledgements
+
+SIC chairs would like to thank Evan Pezent, Zane A. Zook and Marcia O'Malley from [MAHI Lab](http://mahilab.rice.edu) at Rice University for having distributed to them 2 [Syntacts](https://www.syntacts.org) kits for the [IROS 2020 Intro to Haptics for XR Tutorial](http://iros-haptics-tutorial.org/). 
+SIC co-chair Christian Frisson would like to thank Edu Meneses and Johnty Wang from [IDMIL](http://idmil.org) at McGill University for their recommendations on Raspberry Pi hats for audio and sensors.
+
+## License
+
+This documentation is released under the terms of the Creative Commons Attribution Share Alike 4.0 International license (see [LICENSE.txt](LICENSE.txt)).
