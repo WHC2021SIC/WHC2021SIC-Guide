@@ -1,8 +1,8 @@
-# WHC2021SIC-Guide | Main
+# WHC2021SIC-Guide | Repositories
 
 ![rpi4](images/teaser.jpeg)
 
-Guide for the IEEE World Haptics Conference 2021 Student Innovation Challenge
+Guide for the IEEE World Haptics Conference 2021 Student Innovation Challenge: repositories
 
 https://2021.worldhaptics.org/sic/
 
@@ -28,29 +28,15 @@ Once this guide becomes very comprehensive, the main file can be split in multip
 
 <!-- toc -->
 
-- [Getting Started](#getting-started)
 - [Repositories](#repositories)
-- [Videos](#videos)
-- [FAQ](#faq)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 <!-- tocstop -->
 
-## Getting Started
-
-Check the [Getting Started](GettingStarted.md) guide.
-
 ## Repositories
 
-Check the [Repositories](Repositories.md) guide
-## Videos
-
-Check the [Videos](Videos.md) guide.
-
-## FAQ
-
-Questions? Start by checking the [FAQ](FAQ.md)!
+...
 
 ## Acknowledgements
 
