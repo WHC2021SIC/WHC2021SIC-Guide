@@ -36,7 +36,19 @@ Once this guide becomes very comprehensive, the main file can be split in multip
 
 ## Repositories
 
-...
+Teams must release by 11:59 p.m. PST on June 25 ~~18~~ their software that runs on Raspberry Pi platforms through their landing git repository in the [WHC2021SIC](https://github.com/WHC2021SIC) github organization, including their software components and forks, to be released publicly under an open-source license.
+
+Teams must publish a documentation of their project on a public git repository with markdown text files and compatible media files to support the replication of their project, including: 
+- hardware
+   - bills of materials, 
+   - assembly guide, including sensors wiring, 
+- software 
+   - installation,
+   - running instructions.
+
+Please refer to the structure of the latest [project template](https://github.com/WHC2021SIC/WHC2021SIC-ProjectTemplate) for WHC 2021 SIC repositories.
+
+**TODO** We will soon provide updates about ready-to-run flashable images of filesystems. 
 
 ## Acknowledgements
 
