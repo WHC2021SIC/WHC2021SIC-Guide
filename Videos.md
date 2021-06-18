@@ -29,6 +29,11 @@ Once this guide becomes very comprehensive, the main file can be split in multip
 <!-- toc -->
 
 - [Videos](#videos)
+  * [Presenter Guidelines for Preparing Video Materials](#presenter-guidelines-for-preparing-video-materials)
+  * [Additional tips](#additional-tips)
+    + [Render a video at maximum resolution for your archives](#render-a-video-at-maximum-resolution-for-your-archives)
+    + [Export a separate closed caption file](#export-a-separate-closed-caption-file)
+  * [Upload instructions](#upload-instructions)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -36,7 +41,37 @@ Once this guide becomes very comprehensive, the main file can be split in multip
 
 ## Videos
 
-...
+Teams will submit by 11:59 p.m. PST on June 25 ~~18~~ a ~~two~~three-minute video with captions and voice over. The video should briefly explain the problem being solved and show the application in action.
+
+### Presenter Guidelines for Preparing Video Materials
+
+Please follow the [video guidelines](https://2021.worldhaptics.org/video-guidelines/) from WHC 2021.
+
+The duration for SIC videos should be around ~~2~~ 3 minutes.
+
+### Additional tips
+
+#### Render a video at maximum resolution for your archives
+
+The WHC 2021 [video guidelines](https://2021.worldhaptics.org/video-guidelines/) recommends these settings:
+> - Resolution: 1280 x 720
+> - Format: 720p (HD) 
+
+We advise you also render a second version of your video with the maximum Resolution and Format that your video editing tool and computer both support, for archival purposes.
+
+#### Export a separate closed caption file
+
+From the WHC 2021 [video guidelines](https://2021.worldhaptics.org/video-guidelines/):
+> Because of the virtual platform used, captions must be directly “burned” into the video. In other words, they are not “closed captions” included as a text file, but rather, subtitles in the video itself (this is called “open captioning” because the captions are always visible). Our virtual platform does not support closed captioning formats, so all videos must have open captions. 
+
+We advise you to export a separate closed captions file, for future uploads of your video to different platforms, and for your future presentations. 
+
+### Upload instructions
+
+You will be notified by email on how to access [virtual platforms](https://2021.worldhaptics.org/virtual-platforms/) for WHC 2021.
+
+Please follow the [Instructions for Uploading Your Presentation Materials](https://2021.worldhaptics.org/upload-instructions/) from WHC 2021.
+
 
 ## Acknowledgements
 
